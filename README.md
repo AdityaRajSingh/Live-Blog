@@ -1,8 +1,6 @@
 # Live-Blog
 
-Play and Enjoy the Simon-Game. See you at the leader board!
-
-[Lets play](https://adityarajsingh.github.io/Simon-Game/)
+A personal blog started by me in order to write my thoughts, views and solutions to some major problems, and some latest technological advancements.
 
 ## Screenshots
 
